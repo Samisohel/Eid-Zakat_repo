@@ -1,0 +1,275 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#header-bg {
+    background-image: url(images/islam.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 800px;
+    padding: 30px 54px 0px 0px;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+    margin-top: 120px;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    text-shadow:5px 5px 2px black;
+}
+
+.first-para {
+    color: #FFC312;
+    font-size: 32px;
+    margin-bottom: 60px;
+    line-height: 42px;
+    font-weight: 700;
+    text-shadow: 4px 4px 2px black;
+}
+
+.link-button {
+    color: white;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-size: 24px;
+    padding: 20px 26px;
+    background-image: linear-gradient(tomato, orange);
+}
+
+.first-section {
+    position: relative;
+    top: 150px;
+    margin-bottom: 500px;
+    display: flex;
+}
+
+.first-section img {
+    position: absolute;
+    right: 110px;
+    width: 470px;
+    height: 480px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 55px;
+}
+
+.paragrapg {
+    font-size: 24px;
+    line-height: 33px;
+
+}
+
+.second-article {
+    position: absolute;
+    left: 100px;
+}
+
+.second-section {
+    position: relative;
+    top: 300px;
+    bottom: 500px;
+    display: flex;
+}
+
+.second-section img {
+    position: absolute;
+    left: 100px;
+    width: 470px;
+    height: 480px;
+    border-radius: 10px;
+
+}
+
+.third-article {
+    position: absolute;
+    right: 60px;
+}
+
+.third-section {
+    position: relative;
+    top: 53rem;
+    text-align: center;
+}
+
+.main-div {
+    position: relative;
+    width: 100%;
+    height: 505px;
+    margin-bottom: 20px;
+    text-align: left;
+
+
+}
+
+.child1-div {
+    position: absolute;
+    top: 40px;
+    left: 14rem;
+    width: 450px;
+    height: 220px;
+    background-color: rgb(255, 207, 231);
+    border-radius: 10px;
+}
+
+.child2-div {
+    position: absolute;
+    top: 40px;
+    left: 44rem;
+    width: 450px;
+    height: 220px;
+    background-color: rgb(255, 207, 231);
+    border-radius: 10px;
+}
+
+.child3-div {
+    position: absolute;
+    left: 14rem;
+    bottom: 0;
+    width: 450px;
+    height: 220px;
+    background-color: rgb(255, 207, 231);
+    border-radius: 10px;
+}
+
+.child4-div {
+    position: absolute;
+    bottom: 0;
+    left: 44rem;
+    width: 450px;
+    height: 220px;
+    background-color: rgb(255, 207, 231);
+    border-radius: 10px;
+}
+
+.main-div img {
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+
+.div-paragraph {
+    font-size: 22px;
+    padding-left: 100px;
+}
+
+h3 {
+    font-size: 24px;
+    padding-left: 100px;
+    padding-top: 15px;
+    margin-bottom: 10px;
+
+}
+
+.fourth-section {
+    position: relative;
+    top: 58rem;
+
+}
+
+.three-pic {
+    position: absolute;
+
+    top: 0;
+    left: 100px;
+    display: flex;
+}
+
+.three-pic img {
+
+    margin-left: 25px;
+    border-radius: 10px;
+    width: 350px;
+    height: 300px;
+    margin-bottom: 100px;
+}
+
+.fourth-article {
+    position: absolute;
+    margin-left: 15rem;
+    margin-top: 340px;
+    text-align: center;
+
+}
+
+.fifth-section {
+    position: relative;
+    margin-top: 100rem;
+}
+
+.cartoon-div {
+    position: absolute;
+    top: 60px;
+    left: 50px;
+    display: flex;
+}
+
+.cartoon-div img {
+    border-radius: 10px;
+    width: 350px;
+    height: 200px;
+
+}
+
+.cartoon {
+    margin-left: 30px;
+    width: 350px;
+    height: 450px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    background-color: #ffd9f2;
+}
+
+.cartoon-head {
+    margin-top: 0px;
+
+}
+
+.cartoon-para {
+    margin-top: 10px;
+    font-size: 20px;
+    padding-left: 18px;
+
+}
+
+p a {
+    position: absolute;
+    bottom: 20px;
+    margin-left: 18px;
+    font-size: 22px;
+    color: red;
+    font-weight: 700;
+}
+
+#footer {
+    position: relative;
+    margin-top: 141rem;
+    background-color: #1e3799;
+    width: 100%;
+    height: 160px;
+    text-align: center;
+    color: white;
+}
+
+.footer-head {
+
+    padding-top: 20px;
+
+}
+
+.footer-para {
+    position: absolute;
+    top: 80px;
+    left: 37rem;
+    font-size: 25px;
+
+
+}
