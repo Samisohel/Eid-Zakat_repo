@@ -20,7 +20,7 @@ h1 {
     margin-bottom: 30px;
     font-weight: 700;
     font-family: 'Poppins', sans-serif;
-    text-shadow:5px 5px 2px black;
+    text-shadow: 5px 5px 2px black;
 }
 
 .first-para {
@@ -91,7 +91,7 @@ h2 {
 
 .third-article {
     position: absolute;
-    right: 60px;
+    right: 90px;
 }
 
 .third-section {
@@ -220,7 +220,7 @@ h3 {
 }
 
 .cartoon {
-    margin-left: 30px;
+    margin-left: 50px;
     width: 350px;
     height: 450px;
     border-radius: 10px;
@@ -229,7 +229,8 @@ h3 {
 }
 
 .cartoon-head {
-    margin-top: 0px;
+    margin-top: 10px;
+    padding-left: 20px;
 
 }
 
@@ -242,7 +243,7 @@ h3 {
 
 p a {
     position: absolute;
-    bottom: 20px;
+    bottom: 10px;
     margin-left: 18px;
     font-size: 22px;
     color: red;
@@ -270,6 +271,4 @@ p a {
     top: 80px;
     left: 37rem;
     font-size: 25px;
-
-
 }
